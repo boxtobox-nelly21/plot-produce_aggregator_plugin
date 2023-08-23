@@ -27,6 +27,14 @@ The effort exerted by farmers in rural Kenya, albeit great and diligent, are how
 unable to put them in a position to take advantage of the economies of scale both during production and in
 establishing a relationship with the market.
 
+A possible solution to this problem is the use of machine learning to facilitate the identification and selection
+of similar and adjacent plots of land, from satellite and drone imagery, that can be 'aggregated' to form a 
+sizeable collective of farms planting the same crops and therefore able to take advantage of the economies of 
+scale. This system can also be in a position to tap into the already existing mechanism of farmers cooperatives
+operating with good efficiency all across the country.
+
+A by product of this solution is using the same machine learning process to identify possible rooftops in urban
+areas that can be turned into rooftop farms to provide food for urban populations in a sustainable manner.
 
 
 Nelson Otieno.
