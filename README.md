@@ -1,7 +1,7 @@
-plot-produce_aggregator_plugin
+**plot-produce_aggregator_plugin**
 
-Description : Uses AI to help determine similar and adjacent plots of farmland, from satellite imagery, 
-that can be used to plant the same crops and managed in a similar way.
+_**Description : Uses AI to help determine similar and adjacent plots of farmland, from satellite imagery, 
+that can be used to plant the same crops and managed in a similar way.**_
 
 Rural Kenya, much like rural Africa, is home to an estimated 70% of the country's population; the overwhelming 
 majority of whom are completely reliant on agriculture as their main economic activity. I say _economic activity_
